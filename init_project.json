@@ -1,0 +1,10 @@
+[
+  {
+    "model": "api.Project",
+    "pk": 1,
+    "fields": {
+      "project_name": "jichang_hiway",
+      "label_name": "机场高速"
+    }
+  }
+]
